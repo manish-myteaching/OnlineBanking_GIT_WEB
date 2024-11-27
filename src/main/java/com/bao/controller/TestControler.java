@@ -6,10 +6,15 @@ public class TestControler {
 		System.out.println("hello");
 		System.out.println("hi");
 		System.out.println("hi");
+		n();
 	}
 
-	void n() {
+	static void n() {
 		System.out.println("n");
+	}
+	
+	 void m() {
+		System.out.println("m");
 	}
 
 }
