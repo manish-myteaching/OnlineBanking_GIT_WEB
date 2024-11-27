@@ -1,6 +1,6 @@
 package com.bao.controller;
 
-public class Test {
+public class TestControler {
 
 	public static void main() {
        System.out.println("hello");;

@@ -1,5 +1,5 @@
 package com.bao.repository;
 
-public class Test {
+public class TestRepository {
 
 }
