@@ -6,7 +6,7 @@ public class UPIPaymentController {
 	}
 
 	public void upiUpdate() {
-		System.out.println("hiii");
+		System.out.println("hiii");;
         System.out.println("Upi Updated");
 	}
 
